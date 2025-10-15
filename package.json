@@ -57,7 +57,7 @@
   "dependencies": {
     "@sentry/react": "^9.29.0",
     "eslint-plugin-simple-import-sort": "^12.1.1",
-    "lucide-react": "^0.515.0",
+    "lucide-react": "^0.544.0",
     "react": "^19.0.0",
     "prism-react-renderer": "^2.4.1",
     "react-dom": "^19.0.0"
