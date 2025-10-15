@@ -55,7 +55,7 @@
     "uuid": "^10.0.0"
   },
   "dependencies": {
-    "@sentry/react": "^9.29.0",
+    "@sentry/react": "^10.15.0",
     "eslint-plugin-simple-import-sort": "^12.1.1",
     "lucide-react": "^0.515.0",
     "react": "^19.0.0",
